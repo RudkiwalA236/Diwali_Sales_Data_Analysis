@@ -13,7 +13,7 @@ Python scripts for importing, cleaning, and preprocessing sales data.
 Ensuring data integrity and consistency for reliable analysis.
 
 -   Exploratory Data Analysis (EDA):
-In-depth EDA using Pandas, NumPy, and Matplotlib to uncover patterns and trends.
+In-depth EDA using Pandas, NumPy, Seaborn and Matplotlib to uncover patterns and trends.
 Visualizing key metrics such as sales, customer behavior, and product popularity.
 
 -   Sales Forecasting:
