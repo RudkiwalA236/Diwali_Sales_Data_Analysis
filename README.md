@@ -1,5 +1,5 @@
 # Diwali_Sales_Data_Analysis
-### Dataset, python file is uploaded!! 
+### Dataset, python file are uploaded!! 
 Data analysed and visualised using Python.
 
 *** Overview:
